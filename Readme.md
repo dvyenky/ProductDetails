@@ -1,8 +1,8 @@
 1. Clone the repository:
-   git clone <repository-url>
+   git clone https://github.com/dvyenky/ProductDetails.git
 
 2. Install dependencies:
-   cd <project-directory>
+   cd ProductDetails
    npm install
 
 3. Create a .env file in the project root and provide the following environment variables:
